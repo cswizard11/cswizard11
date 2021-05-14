@@ -2,6 +2,7 @@
 I'm Nathan, and I'm a new engineer seeking opportunity to make meaningful contributions while developing valuable skills in new and emerging fields. I'm primarily experienced in Python, with knowledge in Java and Linux systems. I've been trained in analysis of large data sets, creation and training of machine learning models, and neural network fundamentals. I'm passionate about creative problem solving and delivering impactful solutions.
 
 Some projects I'm proud of include:
+
 I worked in a team to build a shopping app in under 24 hours
 
 I wrote a Discord Bot to assign roles to server members
