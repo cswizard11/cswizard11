@@ -3,7 +3,9 @@ I'm Nathan, and I'm a new engineer seeking opportunity to make meaningful contri
 
 Some projects I'm proud of include:
 I worked in a team to build a shopping app in under 24 hours
+
 I wrote a Discord Bot to assign roles to server members
+
 I built a morse code glove with a Raspberry Pi
 
 <!--
